@@ -5,7 +5,7 @@ CDE considers two gene expression datasets of a phenotype of interest, along wit
 
 # Necessary input for CDE: 
 (1) Module list of discovery set
-* The module list of discovery set is aquired from the output of the Edge-Weighted Dense Module Search of GWAS (EW_dmGWAS) tool [2]. Please see below for details about EW_dmGWAS.
+* The module list of discovery set is aquired from the output of the Edge-Weighted Dense Module Search of GWAS (EW_dmGWAS) tool [2]. Please see below for details about how to run EW_dmGWAS.
 
 (2) Edge scores of evaluation set
 * Custom R scripts for calculation of edge scores of evaluation set, as well as edge scores for the MS NAWM evaluation set, are contained within the "EvaluationSet_Microarray" folder above.
