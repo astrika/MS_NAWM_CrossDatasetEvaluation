@@ -8,10 +8,14 @@ CDE considers two gene expression datasets of a phenotype of interest, along wit
 * The module list of discovery set is aquired from the output of the Edge-Weighted Dense Module Search of GWAS (EW_dmGWAS) tool [2]. Please see below for details about EW_dmGWAS.
 
 2) Edge scores of evaluation set
-* Custom R scripts for calculation of edge scores of evaluation set are contained within the EvaluationSet_Microarray folder above.
+* Custom R scripts for calculation of edge scores of evaluation set are contained within the "EvaluationSet_Microarray" folder above.
 
 # Running EW_dmGWAS
-In order to run CDE, you must first aquire a module list of the discovery set. The module list of the discovery set is aquired from EW_dmGWAS output.
+In order to run CDE, you must first aquire a module list of the discovery set. The module list of the discovery set is aquired from EW_dmGWAS output. EW_dmGWAS is a Java program, which is run through the command line. 
+
+You may visit https://github.com/fangfang0906/EW_dmGWAS-Java for instructions on how to run EW_dmGWAS on your command prompt.
+
+For more information about EW_dmGWAS, you may visit https://bioinfo.uth.edu/dmGWAS/. If you use EW_dmGWAS, please cite [2].
 
 # References
 [1] Manuel AM, Dai Y, Freeman LA, Jia P, Zhao Z. A weighted network approach to combining genome-wide genetic variants and brain tissue expression identified intracellular viral pathways and potential drug targets in multiple sclerosis. Journal of Medical Genetics (Manuscript In Submission)
