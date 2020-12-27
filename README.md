@@ -17,7 +17,12 @@ You may visit https://github.com/fangfang0906/EW_dmGWAS-Java for instructions on
 
 For more information about EW_dmGWAS, you may visit https://bioinfo.uth.edu/dmGWAS/. If you use EW_dmGWAS, please cite [2].
 
+# Evaluation of CDE modules
+Gene modules identified by CDE were evaluated by a drug signature enrichment analysis. The Drug Signature Database (DSigDB) was used to query drug signatures of FDA-approved medications [3]. See DSigSB_Overlap.R to perform the evaluation of CDE modules by drug signature enrichment.
+
 # References
 [1] Manuel AM, Dai Y, Freeman LA, Jia P, Zhao Z. A weighted network approach to combining genome-wide genetic variants and brain tissue expression identified intracellular viral pathways and potential drug targets in multiple sclerosis. Journal of Medical Genetics (Manuscript In Submission)
 
 [2] Wang Q, Yu H, Zhao Z, et al. EW-dmGWAS: Edge-weighted dense module search for genome-wide association studies and gene expression profiles. Bioinformatics 2015;31:2591–4. doi:10.1093/bioinformatics/btv150
+
+[3] Yoo M, Shin J, Kim J, et al. DSigDB: Drug signatures database for gene set analysis. Bioinformatics Published Online First: 2015. doi:10.1093/bioinformatics/btv313
