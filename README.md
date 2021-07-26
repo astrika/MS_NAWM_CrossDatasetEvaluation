@@ -23,7 +23,7 @@ Gene modules identified by CDE were evaluated by a drug signature enrichment ana
 See DSigSB_Overlap.R to perform the evaluation of CDE modules by drug signature enrichment.
 
 # References
-[1] Manuel AM, Dai Y, Freeman LA, Jia P, Zhao Z. A weighted network approach to combining genome-wide genetic variants and brain tissue expression identified intracellular viral pathways and potential drug targets in multiple sclerosis. Journal of Medical Genetics (Manuscript In Submission)
+[1] Manuel AM, Dai Y, Freeman LA, Jia P, Zhao Z. An integrative study of genetic variants with brain tissue expression identifies viral etiology and potential drug targets of multiple sclerosis. Mol Cell Neurosci. 2021 Jul 17;115:103656. doi: 10.1016/j.mcn.2021.103656. Epub ahead of print. PMID: 34284104.
 
 [2] Wang Q, Yu H, Zhao Z, et al. EW-dmGWAS: Edge-weighted dense module search for genome-wide association studies and gene expression profiles. Bioinformatics 2015;31:2591–4. doi:10.1093/bioinformatics/btv150
 
